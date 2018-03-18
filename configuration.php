@@ -1,7 +1,7 @@
 <?php
 
 class SConfig{
-	var $_site_url 					= "http://192.168.43.171/soppos-sinar-global/";
+	var $_site_url 					= "http://localhost/soppos-sinar-global/";
 	var $_site_name 				= "LawaveDesign.com";
 	var $_host_name 				= "localhost";
 	var $_database_name 		= "db_soppos";
