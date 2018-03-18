@@ -1,0 +1,56 @@
+@font-face{
+	font-family:"Sniglet";
+	src:url(../fonts/roboto/RobotoSlab-Regular.ttf);
+	format:('ttf');
+}
+@font-face{
+	font-family:"Sniglet Bold";
+	src:url(../fonts/roboto/RobotoSlab-Bold.ttf);
+	format:('ttf');
+}
+*{
+	padding:0;
+	margin:0;
+}
+html{
+	height:100%;
+}
+body{
+	height:100%;
+	background:url(../images/icon/bg_error.jpg);
+	background-size:cover;
+}
+.pertama{
+	display:table;
+	width:100%;
+	height:100%;
+}
+.kedua{
+	display:table-cell;
+	vertical-align:middle;
+	text-align:center;
+	width:100%;
+	height:100%;
+}
+.tag1{
+	font-family:"Sniglet Bold";
+	font-size:20em;
+	color:#FFF;
+	text-shadow:1px 1px 3px rgba(102,102,102,1);
+}
+.tag2{
+	font-family:"Sniglet Bold";
+	font-size:3em;
+	color:#FFF;
+	text-shadow:1px 1px 3px rgba(102,102,102,1);
+}
+.link{
+	font-family:"Sniglet Bold";
+	font-size:1.2em;
+	color:#FFF;
+	text-decoration:none;
+	text-shadow:1px 1px 3px rgba(102,102,102,1);
+}
+.link:hover{
+	color:#FEB916;
+}

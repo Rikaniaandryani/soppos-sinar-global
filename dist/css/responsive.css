@@ -1,0 +1,395 @@
+@media screen and (max-width: 768px){
+  .form-subs{
+    width: 50%;
+    margin-left: 25%;
+  }
+
+
+  .right-cont > div{
+    margin-top: 10px;
+  }
+
+  .test2{
+    text-align: center;
+  }
+
+  .menu-tes{
+    width: 30%;
+  }
+
+  .row1 {
+      margin-left: 0px;
+      left: 0px;
+  }
+
+  .navs-1 {
+    margin-left: 30%;
+  }
+
+  .nextprev{
+    left: 40%;
+  }
+
+  .caption2{
+    left: -40px;
+  }
+
+  .kat-menu-item{
+    margin-left: 40px;
+  }
+
+
+  .border1{
+    border: 1px solid #f0f0f0;
+
+  }
+
+  .border2{
+    border: 1px solid #f0f0f0;
+
+  }
+
+  .border3{
+    border: 1px solid #f0f0f0;
+
+  }
+
+  .border4{
+    border: 1px solid #f0f0f0;
+
+  }
+
+  .border5{
+    border: 1px solid #f0f0f0;
+
+  }
+
+  .border6{
+    border: 1px solid #f0f0f0;
+
+  }
+
+
+  .border7{
+    border: 1px solid #f0f0f0;
+
+  }
+
+  .border8{
+    border: 1px solid #f0f0f0;
+
+  }
+
+  .border9{
+    border: 1px solid #f0f0f0;
+
+  }
+
+  .caption3{
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px){
+  .right-cont > div{
+    margin-top: 0px;
+  }
+
+  .logo-img{
+    padding-top: 10px;
+  }
+
+  .test2{
+    text-align: right !important;
+  }
+
+  .navs-1 {
+    margin-left: 25%;
+  }
+
+  .caption{
+    margin: 100px auto;
+
+    left: 0px;
+  }
+
+  /* .caption2{
+    margin: 150px auto;
+    left: -50px;
+  } */
+
+  .nextprev{
+    left: 35%;
+  }
+
+  .img-brand{
+    top: -25px;
+  }
+
+  .item-our{
+    margin-left: 25%;
+  }
+
+  .sale{
+    margin-left: 23%;
+  }
+
+  .caption2{
+    left: -10px;
+  }
+
+  .bestes{
+    left: 15%;
+    right: 20%;
+  }
+
+  /* .caption3{
+    left: 100px;
+  } */
+
+  .price-best{
+    font-size: 12pt;
+  }
+
+  .colm{
+    left: 0%;
+  }
+
+  .kanan-about{
+    margin: 10px auto;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .bestes{
+    left: 0;
+  }
+
+  /* .caption3{
+    left: 20%;
+  } */
+
+  .form-subs{
+    width: 80%;
+    margin-left: 10%;
+  }
+
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+
+  .right-cont > div{
+    margin-top: 0px !important;
+  }
+
+  .right-cont > div > .icon{
+    font-size: 10pt !important;
+    padding: 0px;
+  }
+
+  .right-cont > div > i{
+    margin-right: 0px;
+  }
+
+  .logo-img{
+    margin-top: 10px;
+  }
+
+  .balon_chart{
+    font-size: 8pt;
+    width: 20px;
+    height: 20px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+  }
+
+  .belanja{
+    font-size: 8pt;
+  }
+
+  .total-belanja{
+    font-size: 12pt;
+  }
+
+  .navs-1 {
+    margin-left: 10%;
+  }
+
+  .caption{
+    margin: 150px auto;
+    left: 0px;
+  }
+
+  .colm{
+    left: 8%;
+  }
+
+
+  .caption2{
+      margin: 130px auto;
+      left: -50px;
+    }
+
+    .img-brand{
+      top: -30px;
+    }
+
+    .item-our{
+      margin-left: 0%;
+    }
+
+    .sale{
+      margin-left: 0%;
+    }
+
+    .nextprev{
+      margin-left: 30%;
+    }
+
+    .bg-kasur{
+      height: 250px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+  .bestes{
+    left: 0;
+  }
+
+  /* .caption3{
+    left: 25%;
+  } */
+
+  .login{
+    font-size: 8pt;
+  }
+
+  .daftar{
+    font-size: 8pt;
+
+  }
+  .right-cont > div > .icon{
+    font-size: 7pt !important;
+    padding: 0px;
+  }
+
+  .navs-1 {
+    margin-left: 0%;
+  }
+
+
+    .caption2{
+      margin: 130px auto;
+      left: -10px;
+    }
+
+    .nextprev{
+      left: 70px;
+    }
+
+    .tgl{
+      font-weight: bold;
+      font-size: 12pt;
+    }
+
+    .bln{
+      font-size: 8pt;
+    }
+
+    .kotak-tgl{
+      margin: 50px auto;
+    }
+
+}
+
+@media screen and (max-width: 320px) {
+  .nama-best{
+  font-size: 8pt;}
+
+  .price-best{
+    font-size: 10pt;
+  }
+
+  .login{
+    font-size: 8pt;
+  }
+
+  .daftar{
+    font-size: 8pt;
+  }
+
+  .user{
+    font-size: 7pt;
+  }
+
+  .edit{
+    font-size: 7pt;
+  }
+
+  .belanja{
+    font-size: 6pt;
+  }
+
+  .total-belanja{
+    font-size: 10pt;
+  }
+
+  .navs-1 > li > a{
+    font-size: 10pt;
+    padding: 10px !important;
+  }
+
+  .caption{
+    margin: 100px auto;
+    left: 0px;
+  }
+
+  .caption2{
+    margin: 130px auto;
+    left: -5px;
+  }
+
+  .colm{
+    left: 5%;
+  }
+
+  .item-our{
+    margin-left: -5%;
+  }
+
+  .sale{
+    margin-left: -5%;
+  }
+
+  .nextprev{
+    left: 50px;
+  }
+
+  .caption3{
+    font-size: 8px;
+    left: -20px;
+  }
+
+  .thumb3{
+    padding-top: 0px;
+    padding-bottom: 50px;
+  }
+
+  .price-best{
+    font-size: 8pt;
+  }
+
+  #cart1{
+    font-size: 8pt;
+  }
+
+  #cart2{
+    font-size: 8pt;
+  }
+
+  .strip{
+    font-size: 8pt;
+  }
+
+
+}

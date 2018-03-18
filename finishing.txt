@@ -1,0 +1,17 @@
+Proses 1.0 Keranjang belanja dan proses pembelian.
+  - Notifikasi email (v)
+
+Proses 2.0 Konfirmasi pembayaran
+  - Notifikasi email (v)
+
+Proses 3.0 Handle Transaksi CMS
+  - Notifikasi email (v)
+
+Proses 5.0 Pendaftaran
+  - Notifikasi email (v)
+  - Halaman Re-verifikasi email untuk akun yang tidak menerima email verifikasi (v)
+
+Proses 7.0 Lupa password
+  - Semua (v)
+
+Report penjualan
